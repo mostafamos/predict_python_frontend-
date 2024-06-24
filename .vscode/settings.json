@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/2110bff1-2686-444a-82ce-10ad618bb961/resourceGroups/predict-react-frontend_group/providers/Microsoft.Web/sites/predict-react-frontend",
+    "appService.deploySubpath": "."
+}
